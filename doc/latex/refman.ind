@@ -1,0 +1,23 @@
+\begin{theindex}
+
+  \item {m\+\_\+t1}
+    \subitem {Pereskokov\+\_\+\+Vladislav\+::my\+\_\+doxygen\+\_\+class}, 
+		\hyperpage{8}
+  \item {m\+\_\+t2}
+    \subitem {Pereskokov\+\_\+\+Vladislav\+::my\+\_\+doxygen\+\_\+class}, 
+		\hyperpage{8}
+  \item {my\+\_\+doxygen\+\_\+namespace}, \hyperpage{5}
+  \item {my\+\_\+public\+\_\+function}
+    \subitem {Pereskokov\+\_\+\+Vladislav\+::my\+\_\+doxygen\+\_\+class}, 
+		\hyperpage{8}
+
+  \indexspace
+
+  \item {Pereskokov\+\_\+\+Vladislav\+::my\+\_\+doxygen\+\_\+class}
+    \subitem {m\+\_\+t1}, \hyperpage{8}
+    \subitem {m\+\_\+t2}, \hyperpage{8}
+    \subitem {my\+\_\+public\+\_\+function}, \hyperpage{8}
+  \item {Pereskokov\+\_\+\+Vladislav\+::my\+\_\+doxygen\+\_\+class$<$ T1, T2 $>$}, 
+		\hyperpage{7}
+
+\end{theindex}
