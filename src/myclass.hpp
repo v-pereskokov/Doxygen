@@ -2,7 +2,7 @@
 #define MYCLASS_HPP
 
 /*!
-* \namespace my_doxygen_namespace
+* \namespace Pereskokov_Vladislav
 * \brief This namespace defines all the classes related
 * to doxygen documentation
 */
